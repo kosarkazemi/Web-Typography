@@ -18,15 +18,15 @@ h2 {
     direction: rtl; 
     font-family: 'BRoya' , Chewy ;
     padding: 0 3px;
-    font-size: 1.6em;
-    margin-bottom: .5em;
+    font-size: 1.9em;
+    margin-bottom: .2em;
     margin-top: 2.5em;
 }
 
 p {
     direction: rtl; 
     font-family: 'BRoya' , Chewy ;
-    font-size: 1.7em;
+    font-size: 1.4em;
     margin-bottom: .3em;
     padding-top: .4em;
 }
