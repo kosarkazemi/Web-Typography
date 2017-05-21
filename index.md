@@ -9,8 +9,22 @@
           url(‘fonts/yekan.ttf’) format(‘truetype’); 
 }
 
+body {
+    font: 62.5%/1.8 tahoma, sans-serif;
+    background: #fff;
+    text-align: center;
+    color: #1A1A1A;
+}
+
+h2 {
+    font-family: "b koodak", Arial, Helvetica, sans-serif;
+    padding: 0 3px;
+    font-size: 1.5em;
+    margin-bottom: .4em;
+    padding-top: .4em;
+}
+
 p {
-    dir:"rtl";
     font-family: Barrio;
 }
 </style>
