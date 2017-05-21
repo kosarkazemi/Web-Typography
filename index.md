@@ -1,6 +1,6 @@
 <html>
 <head>
-<link href='//fonts.googleapis.com/css?family=Baloo-Da' rel='stylesheet'>
+<link href='//fonts.googleapis.com/css?family=Chewy' rel='stylesheet'>
 <style>
 @font-face {
   font-family: 'BRoya';
@@ -23,7 +23,7 @@ h2 {
 }
 
 p {
-    font-family: 'BRoya' ,'Baloo-Da';
+    font-family: 'BRoya' ,'Chewy';
     font-size: 1.4em;
     margin-bottom: .3em;
     padding-top: .4em;
