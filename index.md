@@ -13,6 +13,10 @@
     font-family: 'BRoya' , Chewy ;
 }
 
+.header #header h1 {
+    font-family: 'BRoya' , Chewy ;
+}
+
 body {
     font-family: 'BRoya' , Chewy ;
     direction: rtl;
