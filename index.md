@@ -19,7 +19,6 @@ h2 {
 }
 
 p {
-    text-align: justify;
     direction: rtl;
     font-family: 'BRoya' , Chewy ;
     font-size: 1.4em;
