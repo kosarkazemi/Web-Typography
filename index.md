@@ -1,13 +1,13 @@
-## Welcome to GitHub Pages
+در ابتدای راه وب امکان ارسال فونت توسط سرور به کاربر موجود نبود پس برای نمایش صفحات وب دسته‌ای از فونت‌ها  “web safe fonts” بر روی همه سیستم‌ها نصب بود که گسترش‌دهندگان وب تنها  امکان استفاده از این فونت‌ها را داشتند. اگر طراحی برای نمایش صفحه‌ای به فونت دیگری نیاز داشت ناچار بود متن با فونت مورد نظر خود را به صورت تصویر<img> برای کاربر ارسال کند. در حدود سال 2010 فونت‌های طراحی شده و شخصی نیز توسط مرورگر‌ها پشتیبانی شدند، اما مشکلی که در آن زمان وجود داشت تفاوت فرمت‌‌هایی بود که هر مرورگر یا دستگاه برای خواندن فونت‌ها لازم داشت که در نتیجه آن‌ سرور مجبور به ارسال انواع زیادی فایل بود. امروزه ولی این مشکل نیز با ایجاد فرمت .woff (Web Open File Format ) برطرف شده است که اکثر مرورگر‌ها توانایی پشتیبانی از این فرمت (و همچنین نسل دوم این فونت به نام .woff2 که دارای همان ویژگی‌های نسل اول اما با حجم فایل کمتر است) را دارند.
+  font family به مجموعه‌ای از font face ها گفته می‌شود که ظاهر یکسان دارند ولی با style و weight های متفاوت طراحی شده‌اند زیرا در بسیاری از فونت‌ها برای تغییر در وزن و استایل باید همه حروف مجددا طراحی شوند. مثلا حالت italic یک فونت ممکن است کاملا با حالت عادی آن تفاوت داشته باشد. در نتیجه در صورتی که بخواهیم از حالت italic یک فونت استفاده کنیم باید فایل آن را نیز در اختیار مرورگر قرار دهیم. اگرچه در صورتی که مرورگر این فایل را در اختیار نداشته باشد به صورت synthesized فونت را به حالتی مشابه دلخواه تبدیل می‌کند اما نتیجه این روش فونتی با ظاهر نه چندان ایده‌آل خواهد بود. پس برای استفاده از یک فونت خاص باید فایل‌های متعددی را در اختیار مرورگر گذاشته و نیز با فرمتsrc: }  :font-family}@font-face در فایل css مسیر دسترسی به فایل فونت و خانواده فونت را مشخص کنیم.  انتقال فایل حاوی فونت به مرورگر سمت کاربر از دو راه ممکن است. راه اول (locally hosted) ارسال فایل فونت‌ها توسط سرور با بقیه فایل‌های مربوط به صفحه برای کاربر است. راه دوم (externally hosted) این است که فایل‌های حاوی فونت از سروری غیر از سرور اصلی به کاربر فرستاده ‌شود. این کار با استفاده از Google Fonts انجام می‌پذیرد.
 
-You can use the [editor on GitHub](https://github.com/kosarkazemi/web95-92100931-webTypography/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.boooogh
+
+
+
 
 ### Markdown
-
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 ```markdown
 Syntax highlighted code block
 
@@ -22,16 +22,5 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
-
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kosarkazemi/web95-92100931-webTypography/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
