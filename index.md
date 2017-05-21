@@ -9,6 +9,9 @@
        url('BRoya.ttf') format('truetype');  /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
 }
 
+body {
+     text-align: justify;
+}
 
 h2 {
     font-family: 'BRoya';
