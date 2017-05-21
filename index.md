@@ -4,9 +4,9 @@
 <style>
 @font-face {
   font-family: 'BRoya';
-  src: url('../BRoya.eot?#') format('eot'),  /* IE6–8 */
-       url('../BRoya.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
-       url('../BRoya.ttf') format('truetype');  /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+  src: url('BRoya.eot') format('eot'),  /* IE6–8 */
+       url('BRoya.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+       url('BRoya.ttf') format('truetype');  /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
 }
 
 body {
@@ -23,6 +23,7 @@ h2 {
 }
 
 p {
+    font-family: 'BRoya'
     font-size: 1.4em;
     margin-bottom: .3em;
     padding-top: .4em;
