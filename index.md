@@ -10,9 +10,7 @@
 }
 
 body {
-    font: 62.5%/1.8 tahoma, sans-serif;
-    background: #fff;
-    text-align: center;
+    text-align: right;
     color: #1A1A1A;
 }
 
@@ -26,6 +24,9 @@ h2 {
 
 p {
     font-family: BRoya;
+    font-size: 1.4em;
+    margin-bottom: .3em;
+    padding-top: .4em;
 }
 </style>
 
