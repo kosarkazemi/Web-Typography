@@ -10,7 +10,7 @@
 }
 
 .main-content{
-    font-family: 'Barrio';
+    
 }
 
 body {
@@ -19,7 +19,7 @@ body {
 }
 
 h2 {
-    font-family: "b koodak", Arial, Helvetica, sans-serif;
+    font-family: 'Barrio';
     padding: 0 3px;
     font-size: 1.5em;
     margin-bottom: .4em;
@@ -27,7 +27,7 @@ h2 {
 }
 
 p {
-    font-family: 'Barrio';
+    font-family: 'BRoya';
     font-size: 1.4em;
     margin-bottom: .3em;
     padding-top: .4em;
