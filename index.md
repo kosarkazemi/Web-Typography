@@ -14,7 +14,7 @@ body {
 }
 
 h2 {
-    direction: rtl , ltr; 
+    direction: rtl; 
     font-family: 'BRoya' , Chewy ;
     padding: 0 3px;
     font-size: 1.6em;
@@ -23,7 +23,7 @@ h2 {
 }
 
 p {
-    direction: rtl , ltr; 
+    direction: rtl; 
     font-family: 'BRoya' , Chewy ;
     font-size: 1.4em;
     margin-bottom: .3em;
