@@ -9,12 +9,7 @@
        url('BRoya.ttf') format('truetype');  /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
 }
 
-.maincontent {
-    font-family: 'BRoya' ,'Barrio';
-}
-
 body {
-    font-family: 'BRoya' ,'Barrio';
     text-align: right;
     color: #1A1A1A;
 }
@@ -28,6 +23,7 @@ h2 {
 }
 
 p {
+    font-family: 'BRoya' ,'Barrio';
     font-size: 1.4em;
     margin-bottom: .3em;
     padding-top: .4em;
