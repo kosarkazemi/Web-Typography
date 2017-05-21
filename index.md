@@ -18,7 +18,8 @@ h2 {
     font-family: 'BRoya' , Chewy ;
     padding: 0 3px;
     font-size: 1.6em;
-    margin-bottom: .4em;
+    margin-bottom: 1em;
+    margin-top: 3em;
     padding-top: .4em;
 }
 
@@ -26,7 +27,7 @@ p {
     direction: rtl; 
     font-family: 'BRoya' , Chewy ;
     font-size: 1.4em;
-    margin-bottom: 5em;
+    margin-bottom: .3em;
     padding-top: .4em;
 }
 </style>
