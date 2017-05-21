@@ -11,7 +11,7 @@
 
 body {
      text-align: justify;
-     direction: rtl , ltr; 
+     direction: rtl ; 
 }
 
 h2 {
