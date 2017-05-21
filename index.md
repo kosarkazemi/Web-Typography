@@ -14,7 +14,7 @@ body {
      text-align: justify;   
 }
 
-h1 {
+h2 {
     direction: rtl; 
     font-family: 'BRoya' , Chewy ;
     padding: 0 3px;
