@@ -15,10 +15,7 @@
 }
 
 body {
-    font-family: 'BRoya' , Chewy ;
-    
-    text-align: justify;
-    color: #1A1A1A;
+    color: blue;
 }
 
 h2 {
@@ -34,7 +31,8 @@ p {
     font-size: 1.4em;
     margin-bottom: .3em;
     padding-top: .4em;
-    direction: ltr;
+    direction: rtl;
+    text-align: justify;
 }
 </style>
 
