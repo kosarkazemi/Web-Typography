@@ -10,11 +10,8 @@
 }
 
 *{
-    font-family: 'BRoya' , Chewy ;
-}
-
-.header #header h1 {
-    font-family: 'BRoya' , Chewy ;
+    font-family:  Chewy ;
+    direction: ltr;
 }
 
 body {
