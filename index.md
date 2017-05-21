@@ -9,6 +9,10 @@
        url('BRoya.ttf') format('truetype');  /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
 }
 
+.maincontent {
+    font-family: 'BRoya' ,'Barrio';
+}
+
 body {
     text-align: right;
     color: #1A1A1A;
