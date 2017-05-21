@@ -10,7 +10,8 @@
 }
 
 body {
-    text-align: right;
+    font-family: 'BRoya' , Chewy ;
+    text-align: justify;
     color: #1A1A1A;
 }
 
