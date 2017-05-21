@@ -22,7 +22,7 @@ h2 {
 }
 
 p {
-    direction: rtl; 
+    direction: rtl , ltr; 
     font-family: 'BRoya' , Chewy ;
     font-size: 1.4em;
     margin-bottom: .3em;
