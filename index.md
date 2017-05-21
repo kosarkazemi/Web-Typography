@@ -26,7 +26,7 @@ p {
     direction: rtl; 
     font-family: 'BRoya' , Chewy ;
     font-size: 1.4em;
-    margin-bottom: .3em;
+    margin-bottom: 5em;
     padding-top: .4em;
 }
 </style>
