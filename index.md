@@ -23,7 +23,7 @@ h2 {
 }
 
 p {
-    font-family: 'BRoya' ,'Chewy';
+    font-family: 'BRoya' , Chewy ;
     font-size: 1.4em;
     margin-bottom: .3em;
     padding-top: .4em;
