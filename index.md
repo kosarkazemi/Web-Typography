@@ -24,7 +24,7 @@ h2 {
 }
 
 p {
-    font-family: 'BRoya' , tahoma , 'Barrio';
+    font-family: 'BRoya' , tahoma  'Barrio';
     font-size: 1.4em;
     margin-bottom: .3em;
     padding-top: .4em;
