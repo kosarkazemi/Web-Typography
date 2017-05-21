@@ -10,7 +10,6 @@
 }
 
 body {
-    font-family: 'BRoya' , tahoma , 'Barrio';
     text-align: right;
     color: #1A1A1A;
 }
@@ -24,7 +23,7 @@ h2 {
 }
 
 p {
-    font-family: 'BRoya' , tahoma  'Barrio';
+    font-family: 'BRoya' ,'Barrio';
     font-size: 1.4em;
     margin-bottom: .3em;
     padding-top: .4em;
