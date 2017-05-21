@@ -10,7 +10,7 @@
 }
 
 body {
-     text-align: justify; 
+     text-align: justify;  
 }
 
 h2 {
