@@ -4,9 +4,9 @@
 <style>
 @font-face {
   font-family: 'BRoya';
-  src: url('../fonts/BRoya.eot?#') format('eot'),  /* IE6–8 */
-       url('../fonts/BRoya.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
-       url('../fonts/BRoya.ttf') format('truetype');  /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
+  src: url('../BRoya.eot?#') format('eot'),  /* IE6–8 */
+       url('../BRoya.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+       url('../BRoya.ttf') format('truetype');  /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
 }
 
 body {
