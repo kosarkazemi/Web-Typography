@@ -3,7 +3,7 @@
 <link href='//fonts.googleapis.com/css?family=Chewy' rel='stylesheet'>
 <style>
 @font-face {
-  font-family: 'BRoya';
+  font-family: 'BRoya'; 
   src: url('BRoya.eot') format('eot'),  /* IE6–8 */
        url('BRoya.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
        url('BRoya.ttf') format('truetype');  /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
