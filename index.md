@@ -9,8 +9,13 @@
        url('BRoya.ttf') format('truetype');  /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
 }
 
+*{
+    font-family: 'BRoya' , Chewy ;
+}
+
 body {
     font-family: 'BRoya' , Chewy ;
+    direction: rtl;
     text-align: justify;
     color: #1A1A1A;
 }
