@@ -11,7 +11,7 @@
 
 *{
     font-family:  'Chewy' ;
-    
+    color: blue;  
 }
 
 body {
