@@ -3,10 +3,10 @@
 <link href='//fonts.googleapis.com/css?family=Barrio' rel='stylesheet'>
 <style>
 @font-face {
-    font-family: 'yekan’;
-    src:url('fonts/yekan.eot?#’) format(‘eot’),  <span style="color: #ff6600;">/* IE6–8 */</span>  
-          url('fonts/yekan.woff') format('woff'),
-          url(‘fonts/yekan.ttf’) format(‘truetype’); 
+  font-family: 'BRoya';
+  src: url('../fonts/BRoya.eot?#') format('eot'),  /* IE6–8 */
+       url('../fonts/BRoya.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+       url('../fonts/BRoya.ttf') format('truetype');  /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
 }
 
 body {
@@ -25,7 +25,7 @@ h2 {
 }
 
 p {
-    font-family: Barrio;
+    font-family: BRoya;
 }
 </style>
 
