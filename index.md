@@ -9,21 +9,18 @@
        url('BRoya.ttf') format('truetype');  /* Saf3—5, Chrome4+, FF3.5, Opera 10+ */
 }
 
-*{
-    font-family: 'BRoya' , Chewy ;
-}
 
 body {
      text-align: justify;   
 }
 
-h2 {
+h1 {
     direction: rtl; 
     font-family: 'BRoya' , Chewy ;
     padding: 0 3px;
     font-size: 1.6em;
-    margin-bottom: 1em;
-    margin-top: 3em;
+    margin-bottom: .5em;
+    margin-top: 2.5em;
     padding-top: .4em;
 }
 
