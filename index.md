@@ -21,13 +21,12 @@ h2 {
     font-size: 1.6em;
     margin-bottom: .5em;
     margin-top: 2.5em;
-    padding-top: .4em;
 }
 
 p {
     direction: rtl; 
     font-family: 'BRoya' , Chewy ;
-    font-size: 1.4em;
+    font-size: 1.7em;
     margin-bottom: .3em;
     padding-top: .4em;
 }
