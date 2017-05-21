@@ -27,7 +27,7 @@ h2 {
 }
 
 p {
-    font-family: 'BRoya'
+    font-family: 'Barrio';
     font-size: 1.4em;
     margin-bottom: .3em;
     padding-top: .4em;
