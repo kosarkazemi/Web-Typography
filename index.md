@@ -10,6 +10,7 @@
 }
 
 body {
+    font-family: 'BRoya' ,'Barrio';
     text-align: right;
     color: #1A1A1A;
 }
